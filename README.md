@@ -3,3 +3,8 @@ The purpose of this project was to analyze and visualize email marketing data to
 
 Data Source(s):
 The data was sourced from various databases containing user information and engagement metrics. After gathering the data, I edited and cleaned it using Power BI's Query Editor to ensure accuracy and consistency.
+
+Tools & Technologies:
+Power BI's Query Editor for data cleaning and editing.
+Applied mathematical methods for effective analysis and data manipulation.
+Power BI for creating interactive visualizations and dashboards.
