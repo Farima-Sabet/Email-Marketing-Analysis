@@ -8,3 +8,6 @@ Tools & Technologies:
 Power BI's Query Editor for data cleaning and editing.
 Applied mathematical methods for effective analysis and data manipulation.
 Power BI for creating interactive visualizations and dashboards.
+
+Challenges & Solutions:
+Handling diverse user data and ensuring its accuracy was a significant challenge. I utilized Power BI's Query Editor for efficient data cleaning and applied mathematical methods to maintain data integrity across the dashboard.
